@@ -12,8 +12,8 @@ aşağıdaki program değişken atama ve
 yazdırma işlemini gösterir
 """
 
-isim = "Ahmet" # isim değişkenine string bir değer atar
-yas = 25       # yas değişkenine integer bir değer atar
+isim = "Kerem" # isim değişkenine string bir değer atar
+yas = 21       # yas değişkenine integer bir değer atar
 
 print(isim)    # isim değişkenini ekrana yazdırır
 print(yas)     # yas değişkenini ekrana yazdırır
