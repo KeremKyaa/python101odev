@@ -3,7 +3,7 @@ print("Python", "öğrenmek", "çok", "eğlenceli", sep="-")
 
 print("Adım:", end=" ")
 
-print("Gemini")
+print("Kerem")
 
 print("Python Dersleri:\n\t- Konu 1\n\t- Konu 2")
 
